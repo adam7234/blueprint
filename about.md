@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Blueprint Home Services
-
 Blueprint Home Services is a small Baltimore-based handyman and home maintenance service built around a simple idea: do the work carefully, communicate clearly, and leave your home better than we found it.
 
 I started Blueprint because I like practical work and I care about quality. This business is “learning-by-doing” in the best sense: I take on the right jobs, do them properly, and build a track record you can trust. If a job is outside my scope, I’ll tell you upfront and help you think through the next best step.
