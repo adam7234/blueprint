@@ -1,23 +1,187 @@
 :root{
-  --brand: #0d6efd; /* bootstrap primary */
-  --ink: #111827;
+  --bg: #0b1220;
+  --surface: #0f1a2e;
+  --card: rgba(255,255,255,0.06);
+  --card-border: rgba(255,255,255,0.10);
+
+  --ink: #0f172a;
+  --muted: rgba(15,23,42,0.70);
+
+  --brand: #1f4ed8;   /* deep blueprint blue */
+  --brand-2: #6d5bd0; /* subtle accent */
+  --ring: rgba(31,78,216,.25);
+
+  --radius: 18px;
 }
 
 body{
   color: var(--ink);
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
-.hero-card{
-  border: 1px solid rgba(0,0,0,.08);
-  border-radius: 16px;
-  box-shadow: 0 10px 30px rgba(0,0,0,.06);
+/* Navbar: more “corporate” */
+.navbar{
+  background: rgba(255,255,255,0.90) !important;
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(15,23,42,.08) !important;
 }
 
+.navbar-brand{
+  letter-spacing: .2px;
+}
+
+.nav-link{
+  color: rgba(15,23,42,.80) !important;
+}
+.nav-link:hover{
+  color: rgba(15,23,42,1) !important;
+}
+
+/* Buttons: less Bootstrap-y */
+.btn{
+  border-radius: 14px;
+  font-weight: 600;
+  letter-spacing: .2px;
+}
+
+.btn-primary{
+  background: linear-gradient(135deg, var(--brand), #163db5);
+  border: none;
+  box-shadow: 0 10px 24px rgba(31,78,216,.22);
+}
+.btn-primary:hover{
+  transform: translateY(-1px);
+  box-shadow: 0 14px 30px rgba(31,78,216,.26);
+}
+
+.btn-outline-secondary{
+  border-color: rgba(15,23,42,.18);
+  color: rgba(15,23,42,.80);
+}
+.btn-outline-secondary:hover{
+  border-color: rgba(15,23,42,.28);
+  background: rgba(15,23,42,.04);
+}
+
+/* Badge: clean chips */
 .badge-soft{
-  background: rgba(13,110,253,.10);
-  color: #0d6efd;
-  border: 1px solid rgba(13,110,253,.15);
+  background: rgba(31,78,216,.10);
+  color: rgba(31,78,216,1);
+  border: 1px solid rgba(31,78,216,.14);
+  font-weight: 600;
 }
 
-.content p{ line-height: 1.7; }
-.content li{ margin-bottom: .4rem; }
+/* “Premium” cards */
+.hero-card{
+  border: 1px solid rgba(15,23,42,.10);
+  border-radius: var(--radius);
+  box-shadow: 0 18px 60px rgba(2,6,23,.10);
+}
+
+.card-pro{
+  border-radius: var(--radius);
+  border: 1px solid rgba(15,23,42,.10);
+  background: #fff;
+  box-shadow: 0 14px 40px rgba(2,6,23,.08);
+}
+
+.card-pro .kicker{
+  font-size: .78rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: rgba(15,23,42,.55);
+  font-weight: 700;
+}
+
+.card-pro .title{
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.card-pro .desc{
+  color: rgba(15,23,42,.70);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Section surfaces (replace the Bootstrap “bg-light bands”) */
+.surface{
+  background: radial-gradient(1200px 600px at 10% 0%, rgba(31,78,216,.08), transparent 60%),
+              radial-gradient(900px 500px at 90% 20%, rgba(109,91,208,.10), transparent 55%),
+              rgba(15,23,42,.03);
+  border-top: 1px solid rgba(15,23,42,.08);
+  border-bottom: 1px solid rgba(15,23,42,.08);
+}
+
+/* Footer: corporate dark */
+.site-footer{
+  background: radial-gradient(1200px 600px at 10% 0%, rgba(31,78,216,.18), transparent 55%),
+              radial-gradient(900px 500px at 90% 20%, rgba(109,91,208,.18), transparent 55%),
+              var(--bg);
+  color: rgba(255,255,255,.90);
+}
+
+.site-footer .text-muted{
+  color: rgba(255,255,255,.65) !important;
+}
+
+.footer-title{
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  font-size: .78rem;
+  color: rgba(255,255,255,.70);
+  margin-bottom: .75rem;
+}
+
+.footer-links a{
+  display: inline-block;
+  padding: .25rem 0;
+  color: rgba(255,255,255,.78);
+  text-decoration: none;
+}
+.footer-links a:hover{
+  color: rgba(255,255,255,1);
+}
+
+.footer-contact{
+  color: rgba(255,255,255,.86);
+  text-decoration: none;
+}
+.footer-contact:hover{
+  text-decoration: underline;
+}
+
+.footer-legal{
+  color: rgba(255,255,255,.70);
+  text-decoration: none;
+}
+.footer-legal:hover{
+  color: rgba(255,255,255,1);
+}
+
+.footer-hr{
+  border-color: rgba(255,255,255,.14);
+}
+
+.footer-mark{
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  object-fit: contain;
+  background: rgba(255,255,255,.08);
+  border: 1px solid rgba(255,255,255,.12);
+}
+
+.footer-btn{
+  border-radius: 12px;
+  border-color: rgba(255,255,255,.22) !important;
+}
+
+/* Subtle polish */
+a:focus, .btn:focus, .form-control:focus{
+  box-shadow: 0 0 0 .25rem var(--ring) !important;
+}
