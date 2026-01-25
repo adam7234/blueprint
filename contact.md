@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Send photos + a short description for the fastest quote.
+permalink: /contact/
 ---
 
 ## Best way to reach me
