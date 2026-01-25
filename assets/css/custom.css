@@ -1,35 +1,69 @@
+/* -------------------------------------------------
+   Blueprint Maintenance Services — Pro Theme
+   Paste into: assets/css/custom.css
+-------------------------------------------------- */
+
 :root{
   --bg: #0b1220;
   --surface: #0f1a2e;
-  --card: rgba(255,255,255,0.06);
-  --card-border: rgba(255,255,255,0.10);
+
   --ink: #0f172a;
   --muted: rgba(15,23,42,0.70);
-  --brand: #1e40af;   /* deeper, richer blue */
-  --brand-hover: #1e3a8a; /* even deeper on hover */
-  --brand-2: #6366f1; /* vibrant indigo accent */
-  --success: #059669; /* professional green for trust signals */
+
+  --brand: #1e40af;        /* deep blueprint blue */
+  --brand-hover: #1e3a8a;  /* deeper on hover */
+  --brand-2: #6366f1;      /* vibrant indigo accent */
+  --success: #059669;
+
   --ring: rgba(30,64,175,.20);
   --radius: 18px;
 }
 
+/* Base */
+html, body{ height: 100%; }
 body{
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   color: var(--ink);
   background: #ffffff;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
-/* Navbar: cleaner, more refined */
+/* Headings */
+h1, h2, h3, h4, h5, h6, .display-5, .navbar-brand{
+  font-family: 'Outfit', 'Inter', sans-serif;
+  letter-spacing: -.02em;
+  font-weight: 700;
+}
+.lead{
+  line-height: 1.7;
+  color: rgba(15,23,42,.75);
+}
+
+/* Focus ring */
+a:focus, .btn:focus, .form-control:focus{
+  box-shadow: 0 0 0 .25rem var(--ring) !important;
+  outline: none;
+}
+
+/* -------------------------------------------------
+   Navbar
+-------------------------------------------------- */
+
+/* Default (light) navbar */
 .navbar{
   background: rgba(255,255,255,0.95) !important;
   backdrop-filter: blur(12px);
   border-bottom: 1px solid rgba(15,23,42,.06) !important;
+  position: relative;
+  z-index: 9999;
 }
+
 .navbar-brand{
   letter-spacing: -.01em;
   font-weight: 600;
 }
+
 .nav-link{
   color: rgba(15,23,42,.75) !important;
   font-weight: 500;
@@ -39,30 +73,64 @@ body{
   color: var(--brand) !important;
 }
 
-/* Buttons: deeply professional */
+/* Tinted/Dark navbar option
+   Use: <nav class="navbar navbar-expand-lg navbar-tinted sticky-top">
+*/
+.navbar.navbar-tinted{
+  background: radial-gradient(900px 500px at 20% 0%, rgba(99,102,241,.22), transparent 60%),
+              linear-gradient(180deg, rgba(11,18,32,.92), rgba(11,18,32,.86)) !important;
+  border-bottom: 1px solid rgba(255,255,255,.10) !important;
+}
+
+.navbar.navbar-tinted .navbar-brand,
+.navbar.navbar-tinted .nav-link{
+  color: rgba(255,255,255,.86) !important;
+}
+
+.navbar.navbar-tinted .nav-link:hover{
+  color: rgba(255,255,255,1) !important;
+}
+
+.navbar-toggler{
+  border-color: rgba(15,23,42,.18);
+}
+.navbar-toggler-icon{
+  background-image: var(--bs-navbar-toggler-icon-bg);
+}
+
+/* Ensure toggler visible on tinted nav */
+.navbar.navbar-tinted .navbar-toggler{
+  border-color: rgba(255,255,255,.25);
+}
+.navbar.navbar-tinted .navbar-toggler-icon{
+  filter: invert(1);
+}
+
+/* -------------------------------------------------
+   Buttons
+-------------------------------------------------- */
 .btn{
+  font-family: 'Outfit', 'Inter', sans-serif;
   border-radius: 12px;
   font-weight: 600;
   letter-spacing: -.01em;
   transition: all 0.2s ease;
-  padding: 0.65rem 1.5rem;
 }
+
 .btn-primary{
   background: var(--brand);
   border: none;
   color: white;
-  box-shadow: 0 2px 8px rgba(30,64,175,.25), 
+  box-shadow: 0 2px 8px rgba(30,64,175,.25),
               0 1px 2px rgba(30,64,175,.15);
 }
 .btn-primary:hover{
   background: var(--brand-hover);
   transform: translateY(-1px);
-  box-shadow: 0 8px 20px rgba(30,64,175,.30), 
+  box-shadow: 0 8px 20px rgba(30,64,175,.30),
               0 2px 4px rgba(30,64,175,.20);
 }
-.btn-primary:active{
-  transform: translateY(0);
-}
+.btn-primary:active{ transform: translateY(0); }
 
 .btn-outline-primary{
   border: 1.5px solid var(--brand);
@@ -86,12 +154,12 @@ body{
   color: var(--ink);
 }
 
-.btn-lg{
-  padding: 0.85rem 2rem;
-  font-size: 1.05rem;
-}
+.btn-sm{ padding: 0.45rem 0.9rem; }
+.btn-lg{ padding: 0.85rem 2rem; font-size: 1.05rem; }
 
-/* Badge: professional chips with color */
+/* -------------------------------------------------
+   Badges / chips
+-------------------------------------------------- */
 .badge-soft{
   background: rgba(30,64,175,.08);
   color: var(--brand);
@@ -108,13 +176,34 @@ body{
   font-weight: 600;
 }
 
-/* Premium cards with subtle color accents */
+/* -------------------------------------------------
+   Hero section (adds “pop” while staying clean)
+   Use: <section class="py-5 hero">
+-------------------------------------------------- */
+.hero{
+  background:
+    radial-gradient(1400px 700px at 10% 0%, rgba(30,64,175,.12), transparent 60%),
+    radial-gradient(900px 600px at 90% 20%, rgba(99,102,241,.14), transparent 55%),
+    linear-gradient(180deg, rgba(249,250,251,1), rgba(255,255,255,1));
+  border-bottom: 1px solid rgba(15,23,42,.06);
+}
+
+.hero .badge-soft{
+  background: rgba(255,255,255,.70);
+  border: 1px solid rgba(15,23,42,.10);
+  color: rgba(15,23,42,.80);
+}
+
+/* -------------------------------------------------
+   Cards
+-------------------------------------------------- */
 .hero-card{
   border: 1px solid rgba(15,23,42,.08);
   border-radius: var(--radius);
   box-shadow: 0 20px 60px rgba(2,6,23,.08);
   position: relative;
   overflow: hidden;
+  background: #fff;
 }
 .hero-card::before{
   content: '';
@@ -157,7 +246,7 @@ body{
   line-height: 1.6;
 }
 
-/* Service cards with hover effect */
+/* Make your simple bordered blocks feel nicer */
 .border.rounded-3{
   border-color: rgba(15,23,42,.08) !important;
   transition: all 0.3s ease;
@@ -168,7 +257,9 @@ body{
   transform: translateY(-2px);
 }
 
-/* Section surfaces with refined gradients */
+/* -------------------------------------------------
+   Section surfaces (your “bands”)
+-------------------------------------------------- */
 .surface{
   background: radial-gradient(1400px 700px at 15% 0%, rgba(99,102,241,.06), transparent 65%),
               radial-gradient(1000px 600px at 85% 30%, rgba(30,64,175,.05), transparent 60%),
@@ -176,12 +267,11 @@ body{
   border-top: 1px solid rgba(15,23,42,.06);
   border-bottom: 1px solid rgba(15,23,42,.06);
 }
+.bg-light{ background: rgba(249,250,251,1) !important; }
 
-.bg-light{
-  background: rgba(249,250,251,1) !important;
-}
-
-/* Footer: professional dark with brand accent */
+/* -------------------------------------------------
+   Footer
+-------------------------------------------------- */
 .site-footer{
   background: radial-gradient(1200px 600px at 10% 0%, rgba(30,64,175,.15), transparent 60%),
               radial-gradient(900px 500px at 90% 20%, rgba(99,102,241,.12), transparent 60%),
@@ -191,6 +281,7 @@ body{
 .site-footer .text-muted{
   color: rgba(255,255,255,.68) !important;
 }
+
 .footer-title{
   font-weight: 700;
   letter-spacing: .08em;
@@ -199,6 +290,7 @@ body{
   color: rgba(255,255,255,.75);
   margin-bottom: .75rem;
 }
+
 .footer-links a{
   display: inline-block;
   padding: .3rem 0;
@@ -206,27 +298,23 @@ body{
   text-decoration: none;
   transition: color 0.2s ease;
 }
-.footer-links a:hover{
-  color: var(--brand-2);
-}
+.footer-links a:hover{ color: var(--brand-2); }
+
 .footer-contact{
   color: rgba(255,255,255,.88);
   text-decoration: none;
   transition: color 0.2s ease;
 }
-.footer-contact:hover{
-  color: var(--brand-2);
-}
+.footer-contact:hover{ color: var(--brand-2); }
+
 .footer-legal{
   color: rgba(255,255,255,.72);
   text-decoration: none;
 }
-.footer-legal:hover{
-  color: rgba(255,255,255,1);
-}
-.footer-hr{
-  border-color: rgba(255,255,255,.14);
-}
+.footer-legal:hover{ color: rgba(255,255,255,1); }
+
+.footer-hr{ border-color: rgba(255,255,255,.14); }
+
 .footer-mark{
   width: 34px;
   height: 34px;
@@ -235,6 +323,7 @@ body{
   background: rgba(255,255,255,.10);
   border: 1px solid rgba(255,255,255,.14);
 }
+
 .footer-btn{
   border-radius: 12px;
   border-color: rgba(255,255,255,.22) !important;
@@ -245,50 +334,5 @@ body{
   background: rgba(99,102,241,.15) !important;
 }
 
-/* Refined polish */
-a:focus, .btn:focus, .form-control:focus{
-  box-shadow: 0 0 0 .25rem var(--ring) !important;
-  outline: none;
-}
-.navbar{
-  position: relative;
-  z-index: 9999;
-}
-
-/* Typography refinements */
-h1, h2, h3, h4, h5, h6{
-  letter-spacing: -.02em;
-  font-weight: 700;
-}
-.display-5{
-  font-weight: 700;
-}
-.lead{
-  line-height: 1.7;
-  color: rgba(15,23,42,.75);
-}
-
-/* Subtle accent on key sections */
-.fw-semibold{
-  color: var(--ink);
-  font-weight: 600;
-}
-
-/* Fonts */
-body{
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  color: var(--ink);
-  background: #ffffff;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-}
-
-h1, h2, h3, h4, h5, h6, .display-5, .navbar-brand{
-  font-family: 'Outfit', 'Inter', sans-serif;
-  letter-spacing: -.02em;
-  font-weight: 700;
-}
-
-.btn{
-  font-family: 'Outfit', 'Inter', sans-serif;
-}
+/* Optional: subtle global smoothing */
+hr{ opacity: .12; }
