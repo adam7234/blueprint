@@ -1,55 +1,76 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# Blueprint Maintenance Services
 
-Blueprint Home Services is a small Baltimore-based handyman and home maintenance service built around a simple idea: do the work carefully, communicate clearly, and leave your home better than we found it.
+**Baltimore-based turn & make-ready support for landlords and property managers.**
 
-I started Blueprint because I like practical work and I care about quality. This business is “learning-by-doing” in the best sense: I take on the right jobs, do them properly, and build a track record you can trust. If a job is outside my scope, I’ll tell you upfront and help you think through the next best step.
+We deliver one clear outcome:  
+**Units back to rentable—fast, clean, fully documented, and surprise-free.**
 
-## What we do
+No delays, no endless back-and-forth, no unexpected callbacks.
 
-Blueprint focuses on small-to-medium home repairs, upkeep, and light improvements, including:
+### Who We Serve
+Landlords and property managers who want a dependable partner to:
+- Knock out punch lists quickly
+- Handle small-to-medium fixes that bottleneck turns
+- Provide crystal-clear photo documentation for records and liability protection
 
-- Basic repairs and fixes (doors, hardware, minor carpentry)
+If a job falls outside our scope or requires a licensed specialist, we tell you **immediately** so you can route it correctly.
+
+### What We Do
+Focused turn and make-ready services, including:
+
 - Drywall patching and paint touch-ups
-- Caulking, sealing, weatherproofing
-- Mounting and installation (shelves, blinds, curtain rods, TV mounts)
-- Light plumbing swaps (faucets, showerheads, shutoff valves where accessible)
-- Home maintenance checklists and seasonal prep
+- Caulking, sealing, weatherproofing, and minor water-damage cleanup
+- Door & hardware repairs (handles, strikes, hinges, closers)
+- Mounting & installation (shelves, blinds, curtain rods, miscellaneous items)
+- Straightforward fixture and trim replacements
+- Accessible light plumbing swaps (faucets, showerheads, supply lines, shutoff valves)
+- Smoke/CO detector replacements (device swap only)
+- Final walkthrough + detailed photo closeout documentation
 
-If you’re not sure whether your job fits, send a quick description and photos. I’ll tell you if it’s a match.
+**Process is simple:**  
+Send us your punch list—or just photos/video of the unit.  
+We'll propose a clear closeout plan and pricing.
 
-## How it works
+### How It Works
+1. **Send us details**  
+   Property address + punch list (or photos/video walkthrough).
 
-1. You send the job details (what’s going on + photos if possible).
-2. I reply with a plan: either a simple estimate or a short visit to assess.
-3. We schedule the work.
-4. You get clear documentation: what I did, what materials were used, and what to watch for.
+2. **We scope & quote**  
+   Fast confirmation of what's in/out of scope + block pricing (half-day/full-day) or simple estimate.
 
-## What you can expect
+3. **We schedule & execute**  
+   We arrive on time, fully prepared, and keep you updated.
 
-- Clear communication and realistic timelines
-- Respect for your home (cleaner in, cleaner out)
-- No drama, no upsell games
-- Honest boundaries on what I can and cannot take on
+4. **You receive closeout**  
+   Completed items list, notes on anything extra, and timestamped photos of every finished task.
 
-## Service area
+### What You Can Expect
+- Lightning-fast communication and crystal-clear next steps
+- Strict scope control → no risky surprises or scope creep
+- Clean, professional finish with minimal callbacks
+- Reliable on-time arrival and real-time progress updates
+- Comprehensive photo documentation for your files, tenants, or owners
 
-Baltimore City and nearby areas. If you’re slightly outside the core area, still reach out — I’ll tell you if it’s feasible.
+### Our Boundaries (Keeps Turns Smooth & Predictable)
+We specialize in small-to-medium turn items.  
+We **do not** handle:
+- Major electrical work
+- HVAC diagnostics or refrigerant handling
+- Structural repairs
+- Any task requiring specialty licensing beyond basic replacements
 
-## Values
+If a licensed trade is the better (or required) path, we'll flag it upfront—no guesswork.
 
-- Do it right or don’t do it
-- Show up when you say you will
-- Explain options in plain English
-- Build trust over time
+### Service Area
+- Baltimore City and immediate surrounding areas  
+- Slightly farther out? Reach out—we'll let you know what's realistic.
 
-## Contact
+### Ready to Get Your Unit Turned?
+Use the **Contact** page (or reply here) and include:
 
-Use the Contact page to reach out. Include:
-- Your neighborhood / zip code
-- A short description of the job
-- Photos (if relevant)
-- Your ideal timeframe
+- Property address / neighborhood
+- Punch list (or attach photos/video walkthrough)
+- Target timeline (turn date / move-in date)
+- Access info (lockbox code, tenant occupied/vacant, parking notes)
+
+Let's get your next unit rent-ready—clean, documented, and fast.
