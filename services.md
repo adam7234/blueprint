@@ -4,48 +4,61 @@ title: Services
 permalink: /services/
 ---
 
-Keep your home in great shape.
+Turnovers, small repairs, and make-ready closeouts — done carefully and scheduled simply.
 
-Blueprint Home Services helps you maintain the quality of your space with clean, careful work — the kind of small fixes that protect your home and prevent bigger problems later.
+If you already have a list (turn list, punch list, inspection items), you’re the ideal client. Send photos + the list and I’ll confirm fit, estimate, and next availability (Thursdays + Sundays).
 
-If you have a punch-list, you’re the ideal client. Send photos + your list and I’ll confirm fit and next availability.
+## Best fit
+
+This is a good fit if you need:
+- A rental turned over (make-ready list)
+- An inspection repair list closed out
+- A bundle of small fixes handled in one visit
+
+Not a fit for:
+- Remodels / multi-day projects
+- Major plumbing or electrical work
+- Anything that requires opening walls or specialized licensing
 
 ## The work I do most
 
-### 1) Punch-list visits (best value)
+### 1) Turnover / punch-list visits (best value)
 Multiple small tasks in one appointment. Common items:
-- Mount shelves, mirrors, curtain rods, hooks
-- Patch small drywall holes / anchor damage
-- Adjust doors (sticking, sagging, latch alignment)
-- Replace basic hardware (handles, knobs, hinges)
-- Seal and re-caulk (kitchen/bath where accessible)
+- Patch small holes (anchors, nail pops) and prep for paint
+- Caulk touch-ups (kitchen/bath where accessible)
+- Replace / adjust basic hardware (handles, knobs, hinges)
+- Doors: sticking, sagging, latch alignment, strike plate tweaks
+- Blinds, curtain rods, towel bars, hooks (simple installs)
 
-### 2) Drywall patches + touch-ups
-- Small holes, dents, nail pops
+### 2) Patching + touch-up prep
+- Small holes, dents, anchor damage
 - Patch → sand → ready for paint
-- Paint touch-ups (best if you have matching paint)
+- Paint touch-ups (best if matching paint is available)
 
-### 3) Mounting & installation
-- Shelves, blinds, bathroom accessories
-- TV mounting (stud mounting only)
-- Light assembly / installs (non-electrical)
+### 3) Doors, locks, and hardware
+- Hinge swaps, handle/knob swaps
+- Deadbolt installs (existing prep preferred)
+- Latch alignment and smooth closing
+- Closet door adjustments and minor fixes
 
-### 4) Sealing & weatherproofing
-These are small jobs that prevent expensive ones:
-- Re-caulking tubs, showers, sinks
+### 4) Sealing + weatherproofing
+Small jobs that prevent expensive ones:
+- Re-caulking tubs, showers, sinks (as needed)
 - Weatherstripping / door sweeps
-- Sealing gaps around trim and penetrations
+- Air-gap sealing around trim and penetrations (accessible areas)
 
 ### 5) Light plumbing swaps (simple + accessible)
-- Faucets, showerheads, sprayers
-- Toilet seat / basic toilet internals (flapper/fill valve)
-If anything looks corroded, leaking, or risky, I’ll stop and recommend a plumber. No gambling with water.
+- Showerheads, sprayers, faucets (straightforward swaps)
+- Toilet basics (flapper / fill valve / supply line if accessible)
+If anything looks corroded, actively leaking, or risky, I’ll stop and recommend a plumber. No gambling with water.
+
+## How to request a visit
 
 Send:
-
 - Your neighborhood / zip code
-- What you want done (a short list is fine)
-- Photos (wide shot + close-up)
-- Your ideal timeframe
+- Your list (bullet points are fine)
+- Photos (wide shot + close-up for each item)
+- Access notes (tenant/owner occupied, lockbox, parking)
+- Your preferred timeframe
 
-Use the Contact page to reach out.
+Then use the Contact page to reach out. I’ll reply with: fit/not-a-fit, an estimate range, and the next available slot.
