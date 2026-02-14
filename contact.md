@@ -1,15 +1,19 @@
 ---
 layout: page
 title: Contact
-subtitle: Send photos + a short description for the fastest quote.
+subtitle: Book an appointment for the fastest turnaround. For questions or scheduling issues, email or text.
 permalink: /contact/
 ---
 
-## Best way to reach me
-Email: yourname@example.com  
-Phone/Text: (###) ###-####
+## Book an appointment
+For the fastest service, use the Book Now page to pick a time.  
+[Book Now](https://app.squareup.com/appointments/book/b6dd00ac-e8a5-4a10-a8c7-375070b1a98b/WTY7E5N1ZCYCW/start)
 
-## What to include
+## If you need to reach me directly
+Email: adamshuster1@gmail.com  
+Phone/Text: (301) 582-8577
+
+## What to include (if you’re requesting a quote)
 - Photos (wide + close-up)
 - Measurements (if relevant)
 - Address / neighborhood
