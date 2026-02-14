@@ -4,49 +4,75 @@ title: Services
 permalink: /services/
 ---
 
-About
+# Services – Blueprint Maintenance
 
-Blueprint Home Services is a Baltimore-based handyman and maintenance service focused on turnovers, small repairs, and make-ready closeouts.
+**Baltimore apartment turn & make-ready specialists.**  
+We turn vacant units into rent-ready ones—fast (often same-week), clean, fully photo-documented, and with zero surprises.
 
-I provide clean work, clear communication, and a predictable process — especially for clients who already have a list (turn list, inspection items, punch list).
+Choose the package that fits your turnover needs:
 
-Best fit
+### Full Turn Package – Up to 8-Hour Block
+**Ideal for:** Complete post-move-out make-ready on 1–2 bedroom units. Handles the bulk of small-to-medium fixes so leasing can start ASAP.
 
-- Rental turnovers / make-ready lists
-- Inspection repair lists
-- Bundled small fixes in one visit
+**What’s typically included:**
+- Full drywall patching, texture matching, and spot/whole-room paint touch-ups → Fresh, move-in-ready walls
+- Caulking, sealing, weatherproofing, and minor water-damage prep → No leaks or drafts
+- Door/hardware repairs or replacements (knobs, hinges, closers, sweeps)
+- Mounting & installation (shelves, blinds, curtain rods, misc.)
+- Straightforward fixture/trim swaps
+- Light plumbing fixes (faucets, showerheads, valves, lines)
+- Smoke/CO detector swaps (with new batteries if needed)
+- Final walkthrough + detailed photo closeout of every item
 
-Common services
+**Outcome:** Unit photo-ready for listings/showings. Delivered: itemized list, notes, timestamped photos.
 
-- Doors and hardware (locks, hinges, latches, alignment)
-- Drywall patching and touch-up prep
-- Caulk, sealing, basic weatherproofing
-- Mounting and installs (shelves, blinds, curtain rods, TV mounts)
-- Light plumbing swaps (faucets, showerheads, toilet internals where accessible)
-- Seasonal maintenance checklists and prep
+**Pricing:** Fixed block rate (most units fit in 8 hrs). Quote after photos/punch list review—fast and no-obligation.
 
-How it works
+### Punch List Package – Up to 4-Hour Block
+**Ideal for:** Quick hits when the unit is nearly ready but needs final fixes to avoid leasing delays.
 
-1) Send details: short list + photos (wide + close-up) + zip code.
-2) I confirm fit and send an estimate (or recommend a short assessment visit).
-3) Schedule a turn block (Thursdays + Sundays).
-4) Closeout provided: what was done, materials used, and any watch-outs.
+**What’s typically included:**
+- Targeted drywall patches and paint touch-ups
+- Caulking/sealing fixes
+- Door/hardware adjustments
+- Small mounting/installs
+- Fixture/trim replacements
+- Light plumbing swaps
+- Detector swaps
+- Final check + photos of completed items
 
-What to expect
+**Outcome:** Punch list cleared fast. Green light for inspections or move-ins.
 
-- Clear communication and realistic timelines
-- Respect for your space (cleaner in, cleaner out)
-- No upsells, no surprises
-- If it’s outside scope, I’ll tell you quickly and point you to the right trade
+**Pricing:** Fixed block rate. Perfect for 5–15 items.
 
-Service area
+### Our Simple 4-Step Process
+1. Send address + punch list (or photos/video).
+2. We scope, flag any licensed-trade needs, and quote block pricing.
+3. Schedule—we arrive equipped and on time.
+4. Get closeout: completed items, notes, pro photos.
 
-Baltimore City and nearby areas. If you’re slightly outside the core area, reach out and I’ll tell you if it’s feasible.
+### What You Always Get
+- Rapid responses & clear communication
+- No scope creep or surprise charges
+- Clean, professional work → fewer callbacks
+- Real-time updates
+- Full photo docs for your records/owners
 
-Contact
+### Boundaries (We Keep It Honest)
+Specialists in small-to-medium turns. **We do NOT handle:**
+- Major electrical/HVAC/structural
+- Licensed specialty work beyond basics
 
-Use the Contact page and include:
-- Neighborhood / zip code
-- Your list (bullet points are fine)
-- Photos (wide + close-up)
-- Your ideal timeframe
+We flag those upfront so you can line up the right pros—no wasted time.
+
+### Service Area
+Baltimore City + nearby (within ~30 min). Reach out for farther spots—we'll confirm.
+
+**Ready for your next fast turn?**  
+Contact us with:
+- Address/neighborhood
+- Punch list/photos/video
+- Target date
+- Access details (lockbox, status, parking)
+
+Let's minimize vacancy and get your units leased—quick and clean.
