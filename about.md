@@ -1,81 +1,81 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
-# Blueprint Maintenance Services
 
-**Baltimore-based turn & make-ready support for landlords and property managers.**
+# Blueprint Maintenance and Handyman Services
 
-We deliver one clear outcome:  
-**Units back to rentable—fast, clean, fully documented, and surprise-free.**
+Baltimore-based turn and make-ready support for landlords and property managers.
 
-No delays, no endless back-and-forth, no unexpected callbacks.
+The goal is simple: get units back to rent-ready with clean execution, tight scope control, and photo documentation you can file and trust.
 
-### Who We Serve
+## Who we serve
 Landlords and property managers who want a dependable partner to:
 - Knock out punch lists quickly
-- Handle small-to-medium fixes that bottleneck turns
-- Provide crystal-clear photo documentation for records and liability protection
+- Handle the small-to-medium work that bottlenecks turns
+- Provide clear, timestamped photos for records and liability protection
 
-If a job falls outside our scope or requires a licensed specialist, we tell you **immediately** so you can route it correctly.
+If something is out of scope or needs a licensed specialist, we flag it early so you can route it correctly.
 
-### What We Do
-Focused turn and make-ready services, including:
-
+## What we do
+Turn and make-ready services, including:
 - Drywall patching and paint touch-ups
 - Caulking, sealing, weatherproofing, and minor water-damage cleanup
-- Door & hardware repairs (handles, strikes, hinges, closers)
-- Mounting & installation (shelves, blinds, curtain rods, miscellaneous items)
+- Door and hardware fixes (handles, strikes, hinges, closers)
+- Mounting and installs (shelves, blinds, curtain rods, misc. items)
 - Straightforward fixture and trim replacements
-- Accessible light plumbing swaps (faucets, showerheads, supply lines, shutoff valves)
-- Smoke/CO detector replacements (device swap only)
-- Final walkthrough + detailed photo closeout documentation
+- Light plumbing swaps (faucets, showerheads, supply lines, shutoff valves)
+- Smoke/CO detector device swaps (replacement only)
+- Final walkthrough with photo closeout documentation
 
-**Process is simple:**  
-Send us your punch list—or just photos/video of the unit.  
-We'll propose a clear closeout plan and pricing.
+## How it works
+1. Send details  
+   Address + punch list, or a quick photo/video walkthrough.
 
-### How It Works
-1. **Send us details**  
-   Property address + punch list (or photos/video walkthrough).
+2. Scope and quote  
+   Fast confirmation of what’s in/out of scope, plus block pricing (half-day/full-day) or a simple estimate.
 
-2. **We scope & quote**  
-   Fast confirmation of what's in/out of scope + block pricing (half-day/full-day) or simple estimate.
+3. Schedule and execute  
+   On-time arrival, prepared work, and short progress updates.
 
-3. **We schedule & execute**  
-   We arrive on time, fully prepared, and keep you updated.
+4. Closeout package  
+   Completed list, notes on anything discovered, and timestamped photos of each finished item.
 
-4. **You receive closeout**  
-   Completed items list, notes on anything extra, and timestamped photos of every finished task.
+## What you can expect
+- Fast communication and clear next steps
+- Tight scope control to avoid surprises and delays
+- Clean finish with minimal callbacks
+- Photo documentation for owners, tenants, or your internal files
+- If we find a bigger issue, you hear about it immediately
 
-### What You Can Expect
-- Lightning-fast communication and crystal-clear next steps
-- Strict scope control → no risky surprises or scope creep
-- Clean, professional finish with minimal callbacks
-- Reliable on-time arrival and real-time progress updates
-- Comprehensive photo documentation for your files, tenants, or owners
-
-### Our Boundaries (Keeps Turns Smooth & Predictable)
-We specialize in small-to-medium turn items.  
-We **do not** handle:
+## Boundaries (keeps turns predictable)
+We focus on small-to-medium turn items. We do not handle:
 - Major electrical work
 - HVAC diagnostics or refrigerant handling
 - Structural repairs
 - Any task requiring specialty licensing beyond basic replacements
 
-If a licensed trade is the better (or required) path, we'll flag it upfront—no guesswork.
+If a licensed trade is the better (or required) path, we’ll tell you upfront.
 
-### Service Area
+## Service area
 - Baltimore City and immediate surrounding areas  
-- Slightly farther out? Reach out—we'll let you know what's realistic.
+- Outside that radius? Reach out and we’ll tell you what’s realistic.
 
-### Ready to Get Your Unit Turned?
-Use the **Contact** page (or reply here) and include:
+## About the owner
+<!-- Replace the image path and the bio text below. Keep the width small for a clean layout. -->
+<img src="/assets/img/profile.jpg" alt="Owner photo" style="width:140px; border-radius:12px; float:right; margin:0 0 16px 16px;">
 
+Hi, I’m Adam. I run Blueprint Maintenance Services and focus on one thing: making turns smoother for you. That means showing up prepared, keeping scope tight, communicating clearly, and documenting everything so you’re never guessing what was done and what still needs attention.
+
+If you want, you can replace this paragraph with a more personal story, your background, your standards, and the types of properties you work best with.
+
+<div style="clear:both;"></div>
+
+## Ready to turn a unit
+Use the Contact page and include:
 - Property address / neighborhood
-- Punch list (or attach photos/video walkthrough)
+- Punch list (or photos/video walkthrough)
 - Target timeline (turn date / move-in date)
-- Access info (lockbox code, tenant occupied/vacant, parking notes)
+- Access info (lockbox, vacant/occupied, parking notes)
 
-Let's get your next unit rent-ready—clean, documented, and fast.
+We’ll respond with a clear plan, price, and next steps.
