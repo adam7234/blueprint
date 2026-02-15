@@ -193,6 +193,16 @@ a:focus, .btn:focus, .form-control:focus{
   font-weight: 600;
 }
 
+.project-img {
+  width: 100%;
+  /* Force a square or specific rectangle */
+  aspect-ratio: 1 / 1; 
+  /* This prevents the image from looking squashed */
+  object-fit: cover; 
+  /* Optional: keeps the focus on the center of the photo */
+  object-position: center;
+}
+
 /* -------------------------------------------------
    Hero section (adds “pop” while staying clean)
    Use: <section class="py-5 hero">
