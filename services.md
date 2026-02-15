@@ -2,6 +2,7 @@
 layout: page
 permalink: /about/
 ---
+## Blueprint Maintenance Services 
 
 Baltimore-based handyman help for homeowners who want small projects done cleanly and correctly.
 
