@@ -1,44 +1,56 @@
 ---
 layout: page
-permalink: /services/
+title: About
+permalink: /about/
 ---
 
-# Services – Blueprint Maintenance
+# Blueprint Maintenance and Handyman Services
 
-Have a few fixes (or a small project) in mind? Let’s get it done.
+Baltimore-based handyman help for homeowners who want small projects done cleanly and correctly.
 
-I offer two simple packages for Baltimore homeowners. Book ahead only. Thursdays + Sundays. Photos required.
+I’m not a “call me for anything” contractor. I focus on small repairs, installs, and punch lists — the stuff that piles up and never gets finished.
 
-## Package 1: Quick Fix Session (Up to 2 Hours)
-Best for: 1–3 small tasks.
-
-Examples:
-- Hanging/mounting (shelves, curtain rods, mirrors, TV mount)
-- Door + hardware adjustments (sticking doors, loose handles, strike plates)
+## What I do best
+- Mounting and installs (shelves, curtain rods, mirrors, TV mounts)
+- Doors and hardware fixes (sticking doors, loose handles, hinges, strikes)
 - Caulking touch-ups (kitchen/bath)
-- Small drywall patches
-- Basic fixture swaps (simple, straightforward)
+- Small drywall patches and touch-ups
+- Simple, straightforward fixture swaps
 
-## Package 2: Half-Day Reset (Up to 4 Hours)
-Best for: a punch list (roughly 4–8 small tasks) or a few more involved installs.
+If something is outside scope or needs a licensed pro, I’ll tell you early so you don’t waste time.
 
-Examples:
-- Multiple mounts/installs around the home
-- Several doors/hardware fixes
-- Multiple patches + touch-ups
-- A handful of small repairs across rooms
+## Simple packages (no surprises)
+I offer two straightforward options so pricing stays predictable:
+- Quick Fix Session (up to 2 hours)
+- Half-Day Reset (up to 4 hours)
 
-## How It Works
-1. Send photos + a short list.
-2. I confirm it’s a fit and recommend the right package.
-3. You book a Thu/Sun slot.
-4. Work gets done and cleaned up.
+The goal is fast progress, clean results, and zero weird billing.
 
-## Boundaries
-Small repairs and installs only. No emergencies. No major electrical/plumbing/HVAC. No structural work. No big remodels.
+## How it works
+1. You send photos + a short list  
+2. I confirm it’s a fit and recommend the right package  
+3. You book a Thursday or Sunday slot  
+4. I show up prepared, knock it out, and clean up
 
-## Service Area
+## Boundaries (keeps things smooth)
+Small repairs and installs only.
+- No emergencies
+- No major electrical/plumbing/HVAC
+- No structural work
+- No big remodels
+
+## Service area
 Baltimore City + nearby (about a 30-minute radius).
 
-Ready?
-Send your photos + list and I’ll confirm fit and pricing.
+## About the owner
+<!-- Replace the image path and bio text below -->
+<img src="/assets/img/profile.jpg" alt="Owner photo" style="width:140px; border-radius:12px; float:right; margin:0 0 16px 16px;">
+
+Hi, I’m Adam. I built Blueprint to be the reliable “get it done” option for homeowners — clear scope, tight scheduling, and a clean finish. Send photos first so I can show up with the right tools and hardware and we can actually make progress in one visit.
+
+<div style="clear:both;"></div>
+
+## Ready to book
+Go to the Services page to pick a package, then send:
+- Photos (wide + close-up)
+- A short task list
