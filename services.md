@@ -4,8 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-# Services – Blueprint Maintenance
-
 Have a few fixes (or a small project) in mind? Let’s get it done.
 
 I offer two simple packages for Baltimore homeowners. Book ahead only. Thursdays + Sundays. Photos required.
