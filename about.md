@@ -3,8 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-# Blueprint Maintenance and Handyman Services
-
 Baltimore-based turn and make-ready support for landlords and property managers.
 
 The goal is simple: get units back to rent-ready with clean execution, tight scope control, and photo documentation you can file and trust.
