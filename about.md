@@ -3,11 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
----
-layout: page
-title: About
-permalink: /about/
----
 
 Have a few fixes (or a small project) in mind? Blueprint Maintenance helps Baltimore homeowners knock out small repairs and installs without the runaround.
 
