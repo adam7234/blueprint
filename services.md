@@ -9,7 +9,7 @@ Two simple packages for Baltimore homeowners. Thursdays + Sundays, booked ahead.
 
 ---
 
-## Package 1: Quick Fix Session — $70
+## Package 1: Quick Fix Session — $50
 **Up to 2 hours · 1–3 small tasks**
 
 - Mounting + hanging (shelves, curtain rods, mirrors, TV mounts)
@@ -22,7 +22,7 @@ Two simple packages for Baltimore homeowners. Thursdays + Sundays, booked ahead.
 
 ---
 
-## Package 2: Half-Day Reset — $140
+## Package 2: Half-Day Reset — $100
 **Up to 4 hours · Work through a full punch list**
 
 - Multiple mounts + installs around the home
